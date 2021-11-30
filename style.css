@@ -1,0 +1,25 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar {
+  background: #5879ff;
+}
+
+.nav-link {
+  color: white;
+}
+
+.btn {
+  background-color: #f45a2a;
+  color: white;
+}
+
+.main-body {
+  background: #5879ff;
+}
+
+.display-1 {
+  font-weight: bold;
+  line-height: 12vh;
+}
